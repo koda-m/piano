@@ -6,6 +6,10 @@ html {
   box-sizing: inherit;
 }
 
+body{
+  background-color:#1d1e22;
+}
+
 #piano {
   background-color: #7f00ff;
   width: 992px;
